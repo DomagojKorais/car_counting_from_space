@@ -1,2 +1,2 @@
-# car_counting_from_space
+# Car counting from space
 Repo to count cars using satelite images and deep learning.
